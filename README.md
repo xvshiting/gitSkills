@@ -1,2 +1,6 @@
-jjjffhfhhfhgitSkills
+<<<<<<< HEAD
+dddffhfhhfhgitSkills
+=======
+dddffhfhhfhgitSkills
+>>>>>>> feature1
 =========
