@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-dddffhfhhfhgitSkills
-=======
-dddffhfhhfhgitSkills
->>>>>>> feature1
-=========
+switch to a new branch
